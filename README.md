@@ -1,2 +1,1 @@
-"# My-Project" 
-"# My-Project" 
+Diabetes Prediction using support vector machine
